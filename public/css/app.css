@@ -1,0 +1,8 @@
+#student_table .even {
+  background-color: #454d55;
+}
+
+#student_table .odd {
+  background-color: rgba(69, 77, 85, 0.5);
+}
+
